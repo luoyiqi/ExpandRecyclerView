@@ -1,2 +1,2 @@
 # ExpandRecyclerView
-RecyclerView的扩展诗，可以添加HeaderView和FooterView
+RecyclerView的扩展式，可以添加HeaderView和FooterView
